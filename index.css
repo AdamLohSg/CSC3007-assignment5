@@ -1,0 +1,13 @@
+#map {
+    width: 1000px;
+    height: 600px;
+}
+
+
+.leaflet-tooltip.centerLabel {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    font-weight: bold;
+    font-size: 15px;
+}
